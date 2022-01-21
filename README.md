@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OctoMber26
+- 👋 Hi, I’m @Bogdan
 - 👀 I’m interested in Front-End Development 
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
